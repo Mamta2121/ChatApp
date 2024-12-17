@@ -6,7 +6,10 @@
 => How to make a model in mongodb?
 => What features(functions) of mongodb is being used?
 => What is bcrypt library?
-
+=> What is JWT Token?
+=> How to generate a JWT Token ?
+=> What are attacks in JWT ?
+=> What is Cookies ?
 
 
 
