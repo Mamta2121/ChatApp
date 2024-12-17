@@ -1,0 +1,55 @@
+=> What is cloud version of mongodb ?
+=> What does .env file do ?
+=> What are MongoDB Connection steps?
+=> What is schema and model in mongodb?
+=> How to make a schema in mongodb?
+=> How to make a model in mongodb?
+=> What features(functions) of mongodb is being used?
+=> What is bcrypt library?
+
+
+
+
+
+
+
+
+
+
+POINTS TO REMEMBER ABOUT THIS PROJECT
+=> Make all database operation asynchronous using async await 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROBLEMS I FACED IN THIS PROJECT 
+
+
+1) MongoDB connection to the IP ADDRESS  -> MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+
+2) Password Encryption => To avoid inappropriate access 
+-> using brcypt library

@@ -4,10 +4,14 @@
 
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  color:antiquewhite;
-  background-color: #242424;
+  color: black;
+  
 
   
+}
+
+.flex-mamta::webkit-scrollbar{
+  display: none;
 }
 
 
